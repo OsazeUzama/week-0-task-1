@@ -1,0 +1,249 @@
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.Firstsection {
+    background-image: url("images/background1.png");
+    width: 100%;
+    height: 840px;
+    margin-top: 30px;
+}
+
+.logoclass {
+    margin-top: 28px;
+    margin-left: -40px;
+}
+
+.Firstheader {
+    font-size: 144px;
+    font-weight: 900;
+    color: #FFFFFF;
+    text-shadow: 0px 0px 40px black;
+    line-height: 135px;
+}
+
+.btn {
+    color: #48924F;
+    font-weight: 600;
+    font-size: 18px;
+    font-family: inherit;
+    border-radius: 50px;
+    border: none;
+    padding: 22px 44px;
+    line-height: 20px;
+    background-color: #F9F9F9;
+}
+
+.btn5 {
+    margin-top: 25px;
+}
+
+.Secondheader {
+    font-weight: 800;
+    font-size: 64px;
+    color: #828282;
+    position: relative;
+}
+
+.secondlogo1 {
+    Width: 112px;
+    height: 93.94px;
+    position: absolute;
+    margin-top: -110px;
+    margin-left: -150px;
+}
+
+.SS-firstdiv {
+    display: flex;
+    gap: 15px; 
+    justify-content: center;
+    text-align: left;
+}
+
+.SS-seconddiv {
+    height: 517px;
+    width: 385px;
+    border-radius: 30px;
+    box-shadow: 0px 10px 30px 0px #10331E1A;
+}
+
+h5 {
+    font-weight: 900;
+    font-size: 16px;
+    color: #0D4D14;
+    margin-left: 30px;
+    margin-bottom: -5px;
+}
+.para2 {
+    font-weight: 400;
+    font-size: 14px;
+    color: #0D4D14;
+    padding: 0px 55px 0px 30px;
+}
+
+.btnsecond {
+    margin-top: 70px;
+    box-shadow: 0px 16px 30px 0px #32AF6426;
+    color: #6CB981;
+}
+
+.secondlogo2 {
+    Width: 112px;
+    height: 93.94px;
+    position: absolute;
+    margin-top: -114px;
+    margin-left: 100px;
+}
+
+.Thirdsection {
+    background-image: url("Images/background2.png");
+    height: 732px;
+}
+
+.TS-firstdiv {
+    height: 520px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    color: #FFFFFF;
+    margin-top: 0px;
+    padding-top: 100px;
+}
+
+.TS-div {
+    height: 650px;
+    width: 355px;
+    font-weight: 600px;
+    font-size: 18px;
+    padding: 25px 40px;
+    margin: -30px;
+    margin-top: -65px;
+}
+
+.btn6 {
+    margin-top: -60px;
+}
+
+.FS-firstdiv {
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
+    gap: 15px;
+}
+
+.FS-seconddiv {
+    height: 500px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.container1 {
+    padding-right: 50px;
+    height: 200px;
+    width: 450px;
+    background-color: #FFFFFF;
+    border-radius: 40px;
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid #6CB981;
+}
+
+.pp {
+    width: 65px;
+    height: 65px;
+    padding: 20px;
+    margin-top: 11.5px;
+}
+
+.contain {
+    width: 423px;
+    height: 145px;
+    text-align: left;
+}
+
+.contain h5 {
+    margin-left: 0px;
+    color: #6CB981;
+}
+
+.contain p {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    color: #0D4C14;
+}
+
+.contain h4 {
+    margin-top: -6px;
+    color: #6CB981;
+    font-size: 14px;
+}
+
+.Fifthsections {
+    height: 532px;
+    background-color: #FCFCFC
+}
+
+.FSfirstdiv {
+    display: flex;
+    justify-content: center;
+    gap: 1px;
+}
+
+.FSseconddiv {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    margin-left: 25px;
+}
+
+.btn3 {
+    width: 325px;
+    height: 56px;
+    border-radius: 61px;
+    background: #9FDEA9;
+    border: none;
+}
+
+.btn4 {
+    background-color: #FCFCFC;
+    width: 175px;
+    height: 56px;
+    border-radius: 61px;
+    border: 3px solid #4DB96B;
+    align-self: flex-end;
+    margin-right: 70px;
+}
+
+.FSthirddiv {
+    width: 50%;
+    margin-left: 85px;
+    margin-top: -2px;
+    text-align: left;
+    padding-top: 18px;
+    display: flex;
+    flex-direction: column;
+    gap: 1px;
+}
+
+.iconic {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.FSthirddiv p {
+    font-family: TT Hoves;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.footer {
+    height: 145px;
+    background: #324B29;
+}
